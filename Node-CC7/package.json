@@ -1,0 +1,17 @@
+{
+  "name": "node-cc7",
+  "version": "1.0.0",
+  "description": "my first npm",
+  "main": "test01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "WM",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.4.0"
+  },
+  "devDependencies": {
+    "lodash": "^4.17.20"
+  }
+}

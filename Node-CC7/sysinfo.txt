@@ -1,0 +1,3 @@
+CPU : Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+total Mem : 8463486976
+OS Version : Windows 10 Home Single Language
