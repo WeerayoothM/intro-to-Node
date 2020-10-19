@@ -20,7 +20,6 @@ exports.getTodos = (req, res) => {
         const filteredTodoLists = todoLists.filter(elem => elem.task.includes(searchTask))
         return res.status(200).send(filteredTodoLists)
     }
-
     res.status(200).send(todoLists);
 }
 exports.getTodo = (req, res) => {
