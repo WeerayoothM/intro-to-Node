@@ -1,0 +1,29 @@
+[
+    {
+        "id": 0,
+        "username": "tle",
+        "password": "123456",
+        "firstName": "Wissanu",
+        "lastName": "Kongjandee",
+        "role": "customer",
+        "lastLogin": "Tue Oct 20 2020 11:21:11 GMT+0700 (GMT+07:00)"
+    },
+    {
+        "id": 1,
+        "username": "ohm",
+        "password": "123456",
+        "firstName": "Weerayooth",
+        "lastName": "Manawanich",
+        "role": "customer",
+        "lastLogin": ""
+    },
+    {
+        "id": 2,
+        "username": "ohmwm",
+        "password": "123456",
+        "firstName": "Weerayooth",
+        "lastName": "Manawanich",
+        "role": "customer",
+        "lastLogin": "2020-10-20T03:30:47.188Z"
+    }
+]

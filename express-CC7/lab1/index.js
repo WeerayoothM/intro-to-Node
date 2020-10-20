@@ -19,9 +19,7 @@ app.delete('/bye', (req, res, next) => {
     res.status(204).send("this is in Delete Method")
 })
 
-// app.listen(5555)
 const port = 5555;
 app.listen(port, () => {
     console.log(`server starting on port ${port} ...`);
-
 })
