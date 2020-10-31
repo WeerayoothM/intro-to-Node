@@ -1,0 +1,39 @@
+[
+    {
+        "id": 0,
+        "name": "Lactasoy",
+        "price": 10,
+        "category": "Beverage",
+        "image": [],
+        "totalSale": 1500
+    },
+    {
+        "id": 1,
+        "name": "Lay",
+        "price": 30,
+        "category": "Snack",
+        "image": [],
+        "totalSale": 250
+    },
+    {
+        "id": 2,
+        "name": "Paprica",
+        "price": 20,
+        "category": "Snack",
+        "totalSale": 100
+    },
+    {
+        "id": 2,
+        "name": "Paprica",
+        "price": 20,
+        "category": "Snack",
+        "totalSale": 100
+    },
+    {
+        "id": 2,
+        "name": "Paprica",
+        "price": 20,
+        "category": "Snack",
+        "totalSale": 100
+    }
+]
