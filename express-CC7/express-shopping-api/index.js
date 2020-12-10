@@ -13,6 +13,8 @@ const storage = multer.diskStorage({
     }
 });
 
+//!  const storage = multer.memoryStorage();
+
 // Init Upload
 const upload = multer({ storage: storage }).single('file')
 
